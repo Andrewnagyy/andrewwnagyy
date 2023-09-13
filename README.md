@@ -1,5 +1,5 @@
-# 💫 About Me:
-Backend .NET Developer
+# 💫 Backend .NET Developer
+
 
 
 ## 🌐 Socials:
